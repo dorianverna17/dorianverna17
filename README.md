@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dorian</h1>
 <h3 align="center">Software Engineer and Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on **IP Address Management**
+- 🔭 I’m currently working on **IP Address Management** at **Google**
 
-- 📫 How to reach me **dorianverna@gmail.com**
+- 📫 How to reach me **dorianverna7@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TH3-Kxr6Lrkb8GXx2XT84vu9Y3NTCeAV/view?usp=sharing](https://drive.google.com/file/d/1TH3-Kxr6Lrkb8GXx2XT84vu9Y3NTCeAV/view?usp=sharing)
 
