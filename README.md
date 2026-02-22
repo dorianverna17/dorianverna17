@@ -15,9 +15,9 @@
 **IP Address Management** at Google — building scalable systems for network resource allocation
 
 ### 🌱 What I'm learning / exploring
-Backend App Development && Scalable Deployment
-Site Reliability Engineering Strategies
-Machine Learning Engineering
+Backend App Development && Scalable Deployment<br>
+Site Reliability Engineering Strategies<br>
+Machine Learning Engineering<br>
 
 ### 📫 Reach me at
 **dorianverna7@gmail.com** · [LinkedIn](https://www.linkedin.com/in/dorian-verna/) · [Resume](https://drive.google.com/file/d/1TH3-Kxr6Lrkb8GXx2XT84vu9Y3NTCeAV/view?usp=sharing)
